@@ -40,7 +40,7 @@ On Quizy is a modern, interactive quiz application designed to provide an engagi
 ## Project Structure
 
 on-quizy/
-├── index.html          # Main application file
+├── quizy.html          # Main application file
 └── README.md           # Project documentation
 
 ## Browser Compatibility
